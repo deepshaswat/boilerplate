@@ -1,7 +1,7 @@
 {
   "name": "rating-service",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": " ",
   "license": "MIT",
   "build": "esbuild src/index.ts --platform=node --bundle --outdir=dist",
   "devDependencies": {
@@ -15,5 +15,7 @@
     "express": "^4.19.2",
     "prisma": "^5.14.0",
     "ts-node": "^10.9.2"
-  }
+  },
+  "repository": " ",
+  "author": " "
 }
